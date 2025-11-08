@@ -7,6 +7,7 @@
 2. 关于如何提交修改
 3. 同步远程仓库
 4. markdown编辑层级混乱
+……待补充
 
 #### 内容1
 1. 具体场景:我尝试将新修改文件add到初始化好的仓库中.经常出现该指令**fatal: pathspec '文件名' did not match any files。
